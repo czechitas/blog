@@ -1,0 +1,132 @@
+/* GENERAL STYLES ACROSS THE BLOG */
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+    padding-top: 10px;
+}
+
+.background {
+   position: relative;
+   bottom: 0;
+   width: 100%;
+}
+
+.background img {
+    width: 100%;
+}
+
+header {
+    background-color: #2d3b8d;
+    padding: 10px;
+    color: white;
+    margin-bottom: 50px;
+}
+
+.header-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.header-container h1 {
+    margin: 0;
+}
+
+.logo {
+    width: 200px;
+}
+
+.talk {
+    height: 30px;
+}
+
+.date {
+    font-size: 16px;
+}
+
+.author-image {
+    height: 200px;
+}
+
+.post-title {
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-family: Open Sans;
+    font-size: 30px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 33px;
+}
+
+
+h2 {
+    font-size: 22px;
+}
+
+h3 {
+    font-family: Open Sans;
+    font-size: 22px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 27px;
+}
+
+
+
+.podpis {
+   font-family: Open Sans;
+    font-size: 18px;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: 500;
+    line-height: 15.4px;
+    margin-bottom: 40px;
+    
+}
+
+.photo {
+    margin-left: 25px;
+}
+
+
+
+p {
+    font-family: Open Sans;
+    font-size: 14px;
+    text-align: justify;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+blockquote {
+    font-family: Open Sans;
+    font-size: 20px;
+    color: #2a388f;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-left: 5px;
+    border-left: 2px solid #dddddd;
+    padding: 0 0 0 10px;
+}
+
+
+
+
+div.obrazek {
+    text-align: left;
+    margin-right: 4em;
+}
+
+i.popisek {
+    font-size: 0.8em;
+}
