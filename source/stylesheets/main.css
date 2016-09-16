@@ -54,6 +54,10 @@ header {
     margin-bottom: 20px;
 }
 
+.content {
+    padding-left: 0;
+}
+
 h1 {
     font-family: Open Sans;
     font-size: 30px;
