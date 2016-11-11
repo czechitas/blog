@@ -124,8 +124,6 @@ blockquote {
 }
 
 
-
-
 div.obrazek {
     text-align: left;
     margin-right: 4em;
@@ -133,4 +131,9 @@ div.obrazek {
 
 i.popisek {
     font-size: 0.8em;
+}
+
+.center {
+    margin: auto;
+    display: block;
 }

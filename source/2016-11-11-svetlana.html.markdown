@@ -25,11 +25,11 @@ Bolo mi jasné, že sama naštudovať toľko tém nezvládnem a vo chvíli, keď
 Na kurze sme mali naozaj dobrého lektora, Martina Vytrhlíka, s ktorým som si veľmi rýchlo doplnila chýbajúce informácie, ktoré v online kurzoch neboli a začalo mi hneď všetko dávať väčší zmysel. 
 </blockquote>
 Na každú hodinu som sa tešila a úlohy som robila hneď na ďalší deň, ako ich Martin (náš lektor) poslal. Niekedy som to síce trochu prehnala, lebo naším zadaním bolo spraviť kocky v strede obrazovky
-<img src="/images/sv 3.png" width="300px">
+<img class="center" src="/images/sv 3.png" width="300px">
 
 a ja som poslala výstup takýto:
 
-<img src="/images/sv 2.png" width="300px">
+<img class="center" src="/images/sv 2.png" width="300px">
 
 Počas kurzu nám ukázali všetky v praxi potrebné knižnice a ja som bola schopná hneď po kurze naprogramovať už prvú reálnu mobilná <a href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1130938387&mt=8">aplikáciu na pohovory</a>. Následne som sa pustila do vývoja <a href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1152586527&mt=8">aplikácie pre Czechitas</a>, kde som už vedela čo a ako urobiť správne. 
 
@@ -40,10 +40,18 @@ Ešte koncom leta som plánovala venovať sa naplno databázam a Pythonu a zrazu
 Následne som si hneď našla projekt s agentúrou 2Fresh, kde sme taktiež vyvinuli spolu mobilnú aplikáciu a teraz už môžem naplno programovať aj svoje mobilné nápady :). 
 </blockquote>
 
-Momentálne pracujem ako dátový analytik v Keboole, kde síce priamo mobilné aplikácie nevyvíjam, ale viem dobre prepojíť dátový svet s vývojom. Vidím lepšie, aké možnosti dát je možné využiť v rámci mobilného vývoja a vyvíjať dátovo – orientované aplikácie.”
-Svetlana
+Momentálne pracujem ako dátový analytik v Keboole, kde síce priamo mobilné aplikácie nevyvíjam, ale viem dobre prepojíť dátový svet s vývojom. Vidím lepšie, aké možnosti dát je možné využiť v rámci mobilného vývoja a vyvíjať dátovo-orientované aplikácie.”
+<div class="obrazek"><img src="/images/Svetlana.png" alt="Svetlana" width="100px">
+</div>
+ <p class="podpis photo">
+     Svetlana
+ </p>
 
+### Uživatel je pro Svetlanu vždy na prvním místě
 
-<i>„Na spolupráci se Svetlanou oceňuji nejvíce její akční přístup a zároveň otevřenost. Svetlana dělala vše proto, abychom celý projekt posouvali dopředu. Proto sama přicházela s nápady a vylepšeními. Nešlo jí o to udělat jen samostnou práci. Ale šlo jí hlavně o to, aby to, co dělá, mělo maximální přínos pro uživatele.”</i> 
-Tomáš Wojcik, project manager, 2Fresh
+<i>„Na spolupráci se Svetlanou oceňuji nejvíce její akční přístup a zároveň otevřenost. Svetlana dělala vše proto, abychom celý projekt posouvali dopředu. Proto sama přicházela s nápady a vylepšeními. Nešlo jí o to udělat jen samotnou práci. Ale šlo jí hlavně o to, aby to, co dělá, mělo maximální přínos pro uživatele.”</i> 
+
+ <p class="podpis">
+    Tomáš Wojcik, project manager, 2Fresh
+ </p>
 
