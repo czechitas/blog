@@ -43,8 +43,7 @@ Následne som si hneď našla projekt s agentúrou 2Fresh, kde sme taktiež vyvi
 Momentálne pracujem ako dátový analytik v Keboole, kde síce priamo mobilné aplikácie nevyvíjam, ale viem dobre prepojíť dátový svet s vývojom. Vidím lepšie, aké možnosti dát je možné využiť v rámci mobilného vývoja a vyvíjať dátovo-orientované aplikácie.”
 <div class="obrazek"><img src="/images/Svetlana.png" alt="Svetlana" width="100px">
 </div>
- <p class="podpis photo">
-     Svetlana
+ <p class="podpis photo" style="margin-left: 14px">Svetlana
  </p>
 
 ### Uživatel je pro Svetlanu vždy na prvním místě
