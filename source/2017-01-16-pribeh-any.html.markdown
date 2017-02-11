@@ -31,14 +31,14 @@ author: Czechitas
 </p>
 
 <blockquote>
-    Život je výzva, a tu furt přijímám! :) 
+    Život je výzva – a tu pořád přijímám! 
 </blockquote>
 
 <p>
    Na závěr bych už jen chtěla dodat: díky za to, co děláte, Czechitas! Plus mé osobní poděkování patří Martinu Vytrhlíkovi, našemu lektorovi iOS kurzu.“
 </p>
 
-<div class="obrazek"><img src="img/Ana.png" alt="Ana Friesen" width="100px">
+<div class="obrazek"><img src="/images/ana.jpg" alt="Ana Friesen" width="100px">
 </div>
  <p class="podpis photo">
      Ana
@@ -57,7 +57,7 @@ author: Czechitas
      Překlad:
  </p>
 
- <h3>V IT se vyplatí se zaučovat lidi z různých oborů</h3>
+ <h3>V IT se vyplatí zaučovat lidi z různých oborů</h3>
  <p>
      „V Concuru se snažíme kandidáty, kteří se do IT chtějí dostat z&nbsp;jiného oboru, trénovat v&nbsp;různých činnostech napříč firmou. To považujeme za zásadní při hledání a testování nových potenciálních talentů pro práci v&nbsp;softwarovém inženýrství. Také klademe důraz na&nbsp;genderovou rovnováhu v&nbsp;pracovních týmech. Převážně z&nbsp;těchto důvodů jsme tedy přijali Anu a jsme za to moc rádi.“
  </p>
