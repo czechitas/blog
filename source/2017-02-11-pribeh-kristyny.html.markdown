@@ -5,7 +5,7 @@ tags: Příběh
 layout: post
 author: Czechitas
 ---
-Kristýna se s námi seznámila v roce 2015 na MashUpu v Impact Hubu v Brně, kde poprvé Dita a Mirka veřejně vykládaly o Czechitas a našich aktivitách. I když Krista odjela na stáž do Londýna, zůstala s námi v kontaktu a začínala se přes nás poohlížet po nové práci v IT zaměřené na design a grafiku. Ve stejnou dobu jsme byli v kontaktu s Martinem Koperniechem z Qestu, který byl otevřený začínajícím talentům do svého týmu v Praze. S Kristýnou se setkal a nabídl jí pozici šitou na míru jejím zkušenostem a znalostem. 
+Kristýna se s námi seznámila v roce 2015 na MashUpu v Impact Hubu v Brně, kde poprvé Dita a Mirka veřejně vykládaly o Czechitas a našich aktivitách. I když Kristýna odjela na stáž do Londýna, zůstala s námi v kontaktu a začínala se přes nás poohlížet po nové práci v IT zaměřené na design a grafiku. Ve stejnou dobu jsme byli v kontaktu s Martinem Koperniechem z Qestu, který byl otevřený začínajícím talentům do svého týmu v Praze. S Kristýnou se setkal a nabídl jí pozici šitou na míru jejím zkušenostem a znalostem. 
 
 ###K IT jsem se dostala ze dne na den
 
@@ -38,13 +38,13 @@ Díky klukům z Qestu jsem dostala odrazový můstek, i přesto že jsem neměla
 Pokud vám nevyhovuje to, co dnes děláte, nebude vám to vyhovovat ani zítra, ani pozítří. Nebojte se změn a dělejte chyby. Hlavně něco dělejte, jinak se k tomu snu nikdy nedostanete. 
 </blockquote>
 
-Na závěr bych chtěla moc poděkovat holkám z Czechitas a především Monice, protože to, co dělají, pomáhá holkám plnit jejich sny!“
+Na závěr bych chtěla moc poděkovat holkám z Czechitas a především Monice, protože to, co dělají, pomáhá holkám plnit si své sny!“
 <div class="obrazek"><img src="/images/kristyna.jpg" alt="Kristyna Markova" width="100px"></div>
 <p class="podpis photo">
 Kristýna
 </p>
 
-###Z „oživení týmu“ se stala jeden z top lidí formujících naši identitu
+###Z „oživení týmu“ se stal jeden z top lidí formujících naši identitu
 
 
 „Kristýna byla jednou z pěti holek, které k nám dorazily na pohovor po navázání spolupráce s Czechitas. Komunikovali jsme spolu již v průběhu její stáže v Londýně a čekali jsme na setkání dva měsíce.
@@ -59,5 +59,5 @@ Právě díky této úspěšné spolupráci se náš pohled na ženy v IT změni
 Martin Koperniech, CTO, Qest
 </p>
 <blockquote>
-Zaujal tě Radčin příběh? Uvažuješ o změně zaměstnání a láká tě IT? Neváhej a ozvi se naší Monice na email monika@czechitas.cz.
+Zaujal tě příběh Kristýny? Uvažuješ o změně zaměstnání a láká tě IT? Neváhej a ozvi se naší Monice na email monika@czechitas.cz.
 </blockquote>
